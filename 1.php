@@ -2,7 +2,7 @@
 
 //Challenge it's in https://adventofcode.com/2023/day/1
 
-$input = require_once "input.php";
+$input = require_once "input1.php";
 
 function keyNumbers($string) 
 {
